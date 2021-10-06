@@ -65,12 +65,8 @@ namespace CRUD_BAL.Service
         public bool UpdatePerson(Person person)  
         {  
             try  
-            {  
-                var DataList = _person.GetAll().Where(x => x.IsDeleted != true).ToList();  
-                foreach (var item in DataList)  
-                {  
-                    _person.Update(item);  
-                }  
+            {
+                _person.Update(person);
                 return true;  
             }  
             catch (Exception)  

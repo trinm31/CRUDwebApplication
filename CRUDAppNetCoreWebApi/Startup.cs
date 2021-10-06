@@ -35,8 +35,7 @@ namespace CRUDAppNetCoreWebApi
             services.AddControllers();  
             services.AddHttpClient();  
             services.AddTransient<IRepository<Person>, RepositoryPerson>();  
-            services.AddTransient<PersonService, PersonService>();  
-            services.AddControllers();  
+            services.AddTransient<PersonService, PersonService>();
             services.AddSwaggerGen(c =>  
             {  
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CRUDAspNetCore5WebAPI", Version = "v1" });  
@@ -49,8 +48,12 @@ namespace CRUDAppNetCoreWebApi
             if (env.IsDevelopment())  
             {  
                 app.UseDeveloperExceptionPage();  
-                app.UseSwagger();  
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CRUDAspNetCore5WebAPI v1"));  
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "CRUDAspNetCore5WebAPI v1");
+                    c.RoutePrefix = string.Empty;
+                });
             }  
   
             app.UseHttpsRedirection();  
@@ -60,8 +63,8 @@ namespace CRUDAppNetCoreWebApi
             app.UseAuthorization();  
   
             app.UseEndpoints(endpoints =>  
-            {  
-                endpoints.MapControllers();  
+            {
+                endpoints.MapControllers();
             });  
         }
     }

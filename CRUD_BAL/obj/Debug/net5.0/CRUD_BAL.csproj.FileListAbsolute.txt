@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/bin/Debug/net5.0/CRUD_BAL.deps.json
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/bin/Debug/net5.0/CRUD_BAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/bin/Debug/net5.0/ref/CRUD_BAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/bin/Debug/net5.0/CRUD_BAL.pdb
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/bin/Debug/net5.0/CRUD_DAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/bin/Debug/net5.0/CRUD_DAL.pdb
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.csproj.CopyComplete
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/ref/CRUD_BAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_BAL/obj/Debug/net5.0/CRUD_BAL.pdb

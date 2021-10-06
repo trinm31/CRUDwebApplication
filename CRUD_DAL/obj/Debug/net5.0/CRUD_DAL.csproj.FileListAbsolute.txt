@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/bin/Debug/net5.0/CRUD_DAL.deps.json
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/bin/Debug/net5.0/CRUD_DAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/bin/Debug/net5.0/ref/CRUD_DAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/bin/Debug/net5.0/CRUD_DAL.pdb
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/ref/CRUD_DAL.dll
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.pdb
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/bin/Debug/net5.0/CRUD_DAL.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/bin/Debug/net5.0/CRUD_DAL.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/CRUDAppNetCoreWebApi/CRUD_DAL/obj/Debug/net5.0/CRUD_DAL.genruntimeconfig.cache
